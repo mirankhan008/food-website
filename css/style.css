@@ -66,3 +66,39 @@ span{
     width: 54%;
     margin-left: 20%;
 }
+#third-section{
+    
+}
+.header{
+
+}
+.h11-header{
+    font-size: 60px;
+    font-weight: 700;
+    text-align: center;
+}
+.pa{
+    font-size: 20px;
+    text-align: center;
+}
+.container{
+    display: flex;
+    padding-left: 5%;
+    padding-right: 5%;
+    margin-bottom: 100px;
+    
+}
+.half-border{
+    background-color: white;
+    border: 10px solid rgb(255, 253, 253);
+    border-radius: 40px;
+    box-shadow: 10px 10px 70px gainsboro;
+    margin-left: 2%;
+    margin-right: 2%;
+    padding: 2%;
+    
+}
+.imgg-three{
+    width: 100%;
+    padding: 0px;
+}
