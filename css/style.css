@@ -102,3 +102,30 @@ span{
     width: 100%;
     padding: 0px;
 }
+.half-border-third{
+    display: inline-flex;
+    background-color: white;
+    border: 10px solid rgb(255, 253, 253);
+    border-radius: 10px;
+    box-shadow: 10px 10px 70px gainsboro;
+    margin-left: 20%;
+    /* margin-right: 2%; */
+    /* padding: 7%; */
+    padding-left: 10%;
+    padding-right: 10%
+}
+.youtube{
+    margin-right: 10%;
+    margin-left: 10%;
+}
+.youtube.with{
+    
+}
+footer{
+    background-color: black;
+    height: 130px;
+    padding-top: 30px;
+}
+.footerr{
+    text-align: center;
+}
