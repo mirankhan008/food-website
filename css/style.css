@@ -16,7 +16,7 @@ span{
 .first-section{
     display: flex;
     padding-top: 62px;
-    height: 90vh;
+   
 }
 .half-width{
 
@@ -43,4 +43,21 @@ span{
 
 .second-section{
     display: flex;
+    background-color: #FC8F491A;
+    background-repeat: no-repeat;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.half-width.two{
+    padding-left: 10%;
+    /* padding-right: 5%; */
+    width: 50%;
+    margin-top: 5%;
+}
+.half-width-second-section{
+    width: 50%;
+    padding-left: 10%;
+}
+.half-width.two{
+    padding-right: 10%;
 }
